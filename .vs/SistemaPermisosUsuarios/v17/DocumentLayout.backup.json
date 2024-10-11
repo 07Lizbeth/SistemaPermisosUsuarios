@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\Program.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\Program.cs",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:48:51.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

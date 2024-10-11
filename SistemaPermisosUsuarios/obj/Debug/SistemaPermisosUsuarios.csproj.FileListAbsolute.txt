@@ -1,0 +1,11 @@
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\SistemaPermisosUsuarios.exe.config
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\SistemaPermisosUsuarios.exe
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\SistemaPermisosUsuarios.pdb
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.csproj.AssemblyReference.cache
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmLogin.resources
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.Properties.Resources.resources
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.csproj.GenerateResource.cache
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.exe
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.pdb
+C:\Users\norma\source\repos\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmPrincipal.resources
