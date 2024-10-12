@@ -64,3 +64,6 @@ C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\De
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.exe.config
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmPrincipal.resources
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaP.6413D69C.Up2Date
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmUsuarios.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmRefacciones.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmAddRefaccion.resources

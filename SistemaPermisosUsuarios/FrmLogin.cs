@@ -24,9 +24,9 @@ namespace SistemaPermisosUsuarios
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string usuario = txtUsuario.Text;
+            string nombre = txtUsuario.Text;
             string password = txtPassword.Text;
-            if (mu.Password(usuario,password))
+            if (mu.Password(nombre,password))
             {
                 FrmPrincipal p=new FrmPrincipal();
                 p.ShowDialog();

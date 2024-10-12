@@ -19,9 +19,9 @@ namespace Manejador
         {
             au.Modificar(usuarios);
         }
-        public bool Password(string usuario, string password)
+        public bool Password(string nombre, string password)
         {
-            return au.Password(usuario,password);
+            return au.Validar(nombre,password);
         }
     }
 }

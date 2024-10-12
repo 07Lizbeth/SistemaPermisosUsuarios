@@ -94,6 +94,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccesoRefacciones.cs" />
     <Compile Include="AccesoUsuarios.cs" />
     <Compile Include="ConectarBD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

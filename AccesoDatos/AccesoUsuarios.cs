@@ -13,19 +13,19 @@ namespace AccesoDatos
 
         public void Guardar(Usuarios usuarios)
         {
-            b.Comando(string.Format("call insertar('{0}','{1}')", usuarios.Usuario,
+            b.Comando(string.Format("call insertar('{0}','{1}')", usuarios.Nombre,
                 usuarios.Password));
         }
 
         public void Modificar(Usuarios usuarios)
         {
             b.Comando(string.Format("call modificar({0},'{1}','{2}')", usuarios.Id,
-                usuarios.Usuario,usuarios.Password));
+                usuarios.Nombre,usuarios.Password));
         }
 
-        public bool Password(string usuario, string password)
+        public bool Validar(string nombre, string password)
         {
-            return b.Dato(string.Format("call validarusuario('{0}','{1}');", usuario,password));
+            return b.Dato(string.Format("call validarusuario('{0}','{1}');", nombre,password));
         }
     }
 }
