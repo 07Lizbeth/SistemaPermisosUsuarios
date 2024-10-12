@@ -1,0 +1,6 @@
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\Entidades\bin\Debug\Entidades.dll
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\Entidades\bin\Debug\Entidades.pdb
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\Entidades\obj\Debug\Entidades.dll
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\Entidades\obj\Debug\Entidades.pdb
