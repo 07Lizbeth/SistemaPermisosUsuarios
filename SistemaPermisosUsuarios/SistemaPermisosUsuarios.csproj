@@ -55,11 +55,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmAddHerramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddHerramientas.Designer.cs">
+      <DependentUpon>FrmAddHerramientas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmAddRefaccion.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmAddRefaccion.Designer.cs">
       <DependentUpon>FrmAddRefaccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddUsuarios.Designer.cs">
+      <DependentUpon>FrmAddUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHerramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHerramientas.Designer.cs">
+      <DependentUpon>FrmHerramientas.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
@@ -73,22 +91,37 @@
     <Compile Include="FrmRefacciones.Designer.cs">
       <DependentUpon>FrmRefacciones.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmUsuarios.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmUsuarios.Designer.cs">
-      <DependentUpon>FrmUsuarios.cs</DependentUpon>
-    </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmPrincipal.Designer.cs">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmUpdateUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateUsuarios.Designer.cs">
+      <DependentUpon>FrmUpdateUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarios.Designer.cs">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAddHerramientas.resx">
+      <DependentUpon>FrmAddHerramientas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmAddRefaccion.resx">
       <DependentUpon>FrmAddRefaccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddUsuarios.resx">
+      <DependentUpon>FrmAddUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHerramientas.resx">
+      <DependentUpon>FrmHerramientas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
@@ -96,11 +129,14 @@
     <EmbeddedResource Include="FrmRefacciones.resx">
       <DependentUpon>FrmRefacciones.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmUsuarios.resx">
-      <DependentUpon>FrmUsuarios.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateUsuarios.resx">
+      <DependentUpon>FrmUpdateUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarios.resx">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

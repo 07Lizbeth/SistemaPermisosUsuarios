@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E53BC93-2BC4-43FE-A9B7-EB46E9E7E9CC}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\accesodatos\\accesorefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E53BC93-2BC4-43FE-A9B7-EB46E9E7E9CC}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesorefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B48B088-FBD5-48A7-9C91-894726F02874}|Manejador\\Manejador.csproj|C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\manejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B48B088-FBD5-48A7-9C91-894726F02874}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmupdateusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmupdateusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E53BC93-2BC4-43FE-A9B7-EB46E9E7E9CC}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\accesodatos\\accesousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E53BC93-2BC4-43FE-A9B7-EB46E9E7E9CC}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmupdateusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmupdateusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmaddherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmaddherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmaddusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmaddusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|c:\\users\\norma\\escritorio\\sistemapermisosusuarios\\sistemapermisosusuarios\\frmrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6C87FE6-0E6E-4455-A130-8AAD515AB8DB}|SistemaPermisosUsuarios\\SistemaPermisosUsuarios.csproj|solutionrelative:sistemapermisosusuarios\\frmrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +54,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccesoRefacciones.cs",
-              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\AccesoDatos\\AccesoRefacciones.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\AccesoRefacciones.cs",
-              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\AccesoDatos\\AccesoRefacciones.cs",
-              "RelativeToolTip": "AccesoDatos\\AccesoRefacciones.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T21:44:18.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T23:32:01.948Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ManejadorRefacciones.cs",
-              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\Manejador\\ManejadorRefacciones.cs",
-              "RelativeDocumentMoniker": "Manejador\\ManejadorRefacciones.cs",
-              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\Manejador\\ManejadorRefacciones.cs",
-              "RelativeToolTip": "Manejador\\ManejadorRefacciones.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T21:44:55.746Z",
+              "WhenOpened": "2024-10-13T01:30:32.314Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmRefacciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmRefacciones.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmRefacciones.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmRefacciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmRefacciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T02:10:48.589Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAddUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmAddUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmAddUsuarios.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmAddUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmAddUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:44:37.315Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAddHerramientas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmAddHerramientas.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmAddHerramientas.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmAddHerramientas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmAddHerramientas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:51:33.711Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmUpdateUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:32:08.278Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUsuarios.cs",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmUsuarios.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:43:21.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmLogin.cs",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:41:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:41:36.567Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\AccesoDatos\\AccesoUsuarios.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoUsuarios.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\AccesoDatos\\AccesoUsuarios.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoUsuarios.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:39:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUpdateUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\SistemaPermisosUsuarios\\SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs",
+              "RelativeToolTip": "SistemaPermisosUsuarios\\FrmUpdateUsuarios.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:33:59.42Z",
               "EditorCaption": ""
             }
           ]

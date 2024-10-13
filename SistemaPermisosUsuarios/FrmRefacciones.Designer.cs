@@ -44,7 +44,7 @@
             this.dgvRefacciones.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvRefacciones.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvRefacciones.Location = new System.Drawing.Point(75, 160);
-            this.dgvRefacciones.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvRefacciones.Margin = new System.Windows.Forms.Padding(4);
             this.dgvRefacciones.Name = "dgvRefacciones";
             this.dgvRefacciones.ReadOnly = true;
             this.dgvRefacciones.RowHeadersVisible = false;
@@ -70,7 +70,7 @@
             // 
             this.btnAgregar.Font = new System.Drawing.Font("Arial", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregar.Location = new System.Drawing.Point(1027, 95);
-            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(68, 57);
             this.btnAgregar.TabIndex = 2;
@@ -80,6 +80,7 @@
             // 
             // btnActualizar
             // 
+            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.btnActualizar.Location = new System.Drawing.Point(75, 95);
             this.btnActualizar.Name = "btnActualizar";
             this.btnActualizar.Size = new System.Drawing.Size(188, 57);
@@ -99,7 +100,7 @@
             this.Controls.Add(this.dgvRefacciones);
             this.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmRefacciones";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmRefacciones";

@@ -18,13 +18,20 @@ namespace SistemaPermisosUsuarios
 
         private void dgvRefacciones_CellEnter(object sender, DataGridViewCellEventArgs e)
         {
-            fila = e.RowIndex;
-            col = e.ColumnIndex;
-            refacciones.Idr = int.Parse(dgvRefacciones.Rows[fila].Cells[0].Value.ToString());
-            refacciones.CodigoBarras = dgvRefacciones.Rows[fila].Cells[1].Value.ToString();
-            refacciones.Nombre = dgvRefacciones.Rows[fila].Cells[2].Value.ToString();
-            refacciones.Descripcion = dgvRefacciones.Rows[fila].Cells[3].Value.ToString();
-            refacciones.Marca = dgvRefacciones.Rows[fila].Cells[4].Value.ToString();
+            try
+            {
+                fila = e.RowIndex;
+                col = e.ColumnIndex;
+                refacciones.Idr = int.Parse(dgvRefacciones.Rows[fila].Cells[0].Value.ToString());
+                refacciones.CodigoBarras = dgvRefacciones.Rows[fila].Cells[1].Value.ToString();
+                refacciones.Nombre = dgvRefacciones.Rows[fila].Cells[2].Value.ToString();
+                refacciones.Descripcion = dgvRefacciones.Rows[fila].Cells[3].Value.ToString();
+                refacciones.Marca = dgvRefacciones.Rows[fila].Cells[4].Value.ToString();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         private void dgvRefacciones_CellClick(object sender, DataGridViewCellEventArgs e)

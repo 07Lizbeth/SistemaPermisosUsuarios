@@ -128,9 +128,9 @@
             this.label1.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.label1.Location = new System.Drawing.Point(69, 185);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(114, 49);
+            this.label1.Size = new System.Drawing.Size(180, 49);
             this.label1.TabIndex = 2;
-            this.label1.Text = "User";
+            this.label1.Text = "Nombre";
             // 
             // FrmLogin
             // 

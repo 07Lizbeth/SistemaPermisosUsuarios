@@ -67,3 +67,7 @@ C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\De
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmUsuarios.resources
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmRefacciones.resources
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmAddRefaccion.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmAddHerramientas.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmHerramientas.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmAddUsuarios.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmUpdateUsuarios.resources

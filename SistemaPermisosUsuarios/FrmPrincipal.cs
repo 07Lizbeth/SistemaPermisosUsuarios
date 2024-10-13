@@ -32,16 +32,22 @@ namespace SistemaPermisosUsuarios
             formulario.Show();  
         }
 
-        private void tmsiUsuarios_Click(object sender, EventArgs e)
-        {
-            FrmUsuarios fm = new FrmUsuarios();
-            AbrirFormulario(fm);
-        }
-
         private void tmsiRefacciones_Click(object sender, EventArgs e)
         {
             FrmRefacciones fr=new FrmRefacciones();
             AbrirFormulario(fr);
+        }
+
+        private void tmsiTaller_Click(object sender, EventArgs e)
+        {
+            FrmHerramientas fh=new FrmHerramientas();
+            AbrirFormulario(fh);
+        }
+
+        private void tmsiMUsuarios_Click(object sender, EventArgs e)
+        {
+            FrmUsuarios fm = new FrmUsuarios();
+            AbrirFormulario(fm);
         }
     }
 }

@@ -8,9 +8,9 @@ namespace Entidades
 {
     public class Herramientas
     {
-        public Herramientas(int idr, string codigoHerramienta, string nombre, string medida, string marca, string descripcion)
+        public Herramientas(int idh, string codigoHerramienta, string nombre, string medida, string marca, string descripcion)
         {
-            Idr = idr;
+            Idh = idh;
             CodigoHerramienta = codigoHerramienta;
             Nombre = nombre;
             Medida = medida;
@@ -18,7 +18,7 @@ namespace Entidades
             Descripcion = descripcion;
         }
 
-        public int Idr { get; set; }
+        public int Idh { get; set; }
         public string CodigoHerramienta { get; set; }
         public string Nombre { get; set; }
         public string Medida { get; set; }

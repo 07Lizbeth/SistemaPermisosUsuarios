@@ -30,10 +30,12 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.pnlPrincipal = new System.Windows.Forms.Panel();
             this.tmsiUsuarios = new System.Windows.Forms.ToolStripMenuItem();
             this.tmsiRefacciones = new System.Windows.Forms.ToolStripMenuItem();
             this.tmsiTaller = new System.Windows.Forms.ToolStripMenuItem();
+            this.pnlPrincipal = new System.Windows.Forms.Panel();
+            this.tmsiMUsuarios = new System.Windows.Forms.ToolStripMenuItem();
+            this.permisosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -64,24 +66,15 @@
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // pnlPrincipal
-            // 
-            this.pnlPrincipal.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pnlPrincipal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlPrincipal.Location = new System.Drawing.Point(505, 5);
-            this.pnlPrincipal.Name = "pnlPrincipal";
-            this.pnlPrincipal.Size = new System.Drawing.Size(1149, 1037);
-            this.pnlPrincipal.TabIndex = 1;
-            // 
             // tmsiUsuarios
             // 
+            this.tmsiUsuarios.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tmsiMUsuarios,
+            this.permisosToolStripMenuItem});
             this.tmsiUsuarios.Margin = new System.Windows.Forms.Padding(0, 20, 0, 20);
             this.tmsiUsuarios.Name = "tmsiUsuarios";
             this.tmsiUsuarios.Size = new System.Drawing.Size(327, 65);
             this.tmsiUsuarios.Text = "Usuarios";
-            this.tmsiUsuarios.Click += new System.EventHandler(this.tmsiUsuarios_Click);
             // 
             // tmsiRefacciones
             // 
@@ -97,6 +90,31 @@
             this.tmsiTaller.Name = "tmsiTaller";
             this.tmsiTaller.Size = new System.Drawing.Size(327, 65);
             this.tmsiTaller.Text = "Taller";
+            this.tmsiTaller.Click += new System.EventHandler(this.tmsiTaller_Click);
+            // 
+            // pnlPrincipal
+            // 
+            this.pnlPrincipal.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pnlPrincipal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pnlPrincipal.Location = new System.Drawing.Point(505, 5);
+            this.pnlPrincipal.Name = "pnlPrincipal";
+            this.pnlPrincipal.Size = new System.Drawing.Size(1149, 1037);
+            this.pnlPrincipal.TabIndex = 1;
+            // 
+            // tmsiMUsuarios
+            // 
+            this.tmsiMUsuarios.Name = "tmsiMUsuarios";
+            this.tmsiMUsuarios.Size = new System.Drawing.Size(413, 70);
+            this.tmsiMUsuarios.Text = "Usuarios";
+            this.tmsiMUsuarios.Click += new System.EventHandler(this.tmsiMUsuarios_Click);
+            // 
+            // permisosToolStripMenuItem
+            // 
+            this.permisosToolStripMenuItem.Name = "permisosToolStripMenuItem";
+            this.permisosToolStripMenuItem.Size = new System.Drawing.Size(413, 70);
+            this.permisosToolStripMenuItem.Text = "Permisos";
             // 
             // FrmPrincipal
             // 
@@ -125,5 +143,7 @@
         private System.Windows.Forms.ToolStripMenuItem tmsiUsuarios;
         private System.Windows.Forms.ToolStripMenuItem tmsiRefacciones;
         private System.Windows.Forms.ToolStripMenuItem tmsiTaller;
+        private System.Windows.Forms.ToolStripMenuItem tmsiMUsuarios;
+        private System.Windows.Forms.ToolStripMenuItem permisosToolStripMenuItem;
     }
 }
