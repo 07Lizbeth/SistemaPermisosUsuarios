@@ -13,6 +13,7 @@ namespace Manejador
     public class ManejadorUsuarios
     {
         AccesoUsuarios au=new AccesoUsuarios();
+        ManejadorLogin ml=new ManejadorLogin();
         Grafico g=new Grafico();
         public void Guardar(Usuarios usuarios)
         {
@@ -31,10 +32,10 @@ namespace Manejador
             if (rs == DialogResult.Yes)
                 au.Eliminar(usuarios);
         }
-        public bool Password(string nombre, string password)
-        {
-            return au.Validar(nombre,password);
-        }
+        //public bool Password(string nombre, string password)
+        //{
+        //    return au.Validar(nombre,password);
+        //}
         public void Mostrar(DataGridView tabla)
         {
             tabla.Columns.Clear();

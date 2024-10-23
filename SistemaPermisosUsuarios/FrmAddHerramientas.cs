@@ -10,6 +10,7 @@ namespace SistemaPermisosUsuarios
         ManejadorHerramientas mh;
         FrmHerramientas fh;
         Herramientas herramientas = null;
+
         public FrmAddHerramientas()
         {
             InitializeComponent();

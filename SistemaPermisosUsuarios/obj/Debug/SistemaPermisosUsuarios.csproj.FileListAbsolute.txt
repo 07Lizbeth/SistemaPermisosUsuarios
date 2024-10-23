@@ -71,3 +71,15 @@ C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\De
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmHerramientas.resources
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmAddUsuarios.resources
 C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmUpdateUsuarios.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmPermisos.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.FrmAddPermisos.resources
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\SistemaPermisosUsuarios.exe.manifest
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\bin\Debug\SistemaPermisosUsuarios.application
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.exe.manifest
+C:\Users\norma\Escritorio\SistemaPermisosUsuarios\SistemaPermisosUsuarios\obj\Debug\SistemaPermisosUsuarios.application

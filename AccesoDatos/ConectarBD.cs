@@ -52,6 +52,54 @@ namespace AccesoDatos
             }
             return rs==1;
         }
+        public string Dato2(string query, Dictionary<string, object> parameters)
+        {
+            string rs = "";
+            try
+            {
+                con.Open();
+                MySqlCommand command = new MySqlCommand(query, con);
+                if (parameters != null)
+                {
+                    foreach (var parameter in parameters)
+                    {
+                        command.Parameters.AddWithValue(parameter.Key, parameter.Value);
+                    }
+                }
+                rs = Convert.ToString(command.ExecuteScalar());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally { con.Close(); }
+
+            return rs;
+        }
+        public bool Dato3(string query, Dictionary<string, object> parameters)
+        {
+            int count=0;
+            try
+            {
+                con.Open();
+                MySqlCommand command = new MySqlCommand(query, con);
+                if (parameters != null)
+                {
+                    foreach (var parameter in parameters)
+                    {
+                        command.Parameters.AddWithValue(parameter.Key, parameter.Value);
+                    }
+                }
+                count = Convert.ToInt32(command.ExecuteScalar());
+                //rs = Convert.ToString(command.ExecuteScalar());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally { con.Close(); }
+            return count == 1;
+        }
 
         public DataSet Obtener(string q, string tabla)
         {

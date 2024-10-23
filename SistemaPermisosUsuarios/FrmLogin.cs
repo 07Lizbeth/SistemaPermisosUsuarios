@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -10,31 +11,37 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
 using Manejador;
+using MySqlX.XDevAPI;
 
 namespace SistemaPermisosUsuarios
 {
     public partial class FrmLogin : Form
     {
-        ManejadorUsuarios mu;
+        public static string nombre;
+        public static string user;
+        //public static Boolean Usuario, Permiso, Refaccion, Taller;
+        ManejadorLogin ml;
         public FrmLogin()
         {
             InitializeComponent();
-            mu=new ManejadorUsuarios();
+            ml=new ManejadorLogin();
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string nombre = txtUsuario.Text;
+            nombre = ml.Informacion("nombre", "usuarios", "nombre", txtUsuario.Text);
+            user=ml.Informacion("id","usuarios","nombre",txtUsuario.Text);
             string password = txtPassword.Text;
-            if (mu.Password(nombre,password))
+            if (ml.Password(nombre,password))
             {
-                FrmPrincipal p=new FrmPrincipal();
-                p.ShowDialog();
+                Hide();
+                FrmPrincipal fp = new FrmPrincipal();
+                fp.ShowDialog();
                 Close();
             }
             else
             {
-                MessageBox.Show("Número de Identificación y/o Contraseña no son correctos");
+                MessageBox.Show("Nombre y/o Contraseña no son correctos");
             }
         }
     }

@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Herramientas.cs" />
+    <Compile Include="Login.cs" />
     <Compile Include="Permisos.cs" />
     <Compile Include="Refacciones.cs" />
     <Compile Include="Usuarios.cs" />

@@ -9,38 +9,52 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Manejador;
 using Entidades;
+using Org.BouncyCastle.Math.EC.Endo;
 
 namespace SistemaPermisosUsuarios
 {
     public partial class FrmUsuarios : Form
     {
         ManejadorUsuarios mu;
+        ManejadorLogin ml;
         public static Usuarios usuarios = new Usuarios(0,"","","","","","");
         int fila = 0, col = 0;
         public FrmUsuarios()
         {
             InitializeComponent();
             mu=new ManejadorUsuarios();
-
+            ml=new ManejadorLogin();
         }
 
         private void dgvUsuarios_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            var ua = ml.Permisos("actualizacion", FrmLogin.user, "Usuarios");
+            var uel = ml.Permisos("eliminacion", FrmLogin.user, "Usuarios");
             switch (col)
             {
                 case 7:
                     {
-                        Hide();
-                        FrmUpdateUsuarios fuu = new FrmUpdateUsuarios();
-                        fuu.ShowDialog();
-                        Actualizar();
-                        Show();
+                        if (ua == true)
+                        {
+                            Hide();
+                            FrmUpdateUsuarios fuu = new FrmUpdateUsuarios();
+                            fuu.ShowDialog();
+                            Actualizar();
+                            Show();
+                        }
+                        else
+                            MessageBox.Show("No tiene permisos de actualizacion");
                     }
                     break;
                 case 8:
                     {
-                        mu.Eliminar(usuarios);
-                        Actualizar();
+                        if(uel == true)
+                        {
+                            mu.Eliminar(usuarios);
+                            Actualizar();
+                        }
+                        else
+                            MessageBox.Show("No tiene permisos de eliminacion");
                     }
                     break;
             }
@@ -48,16 +62,20 @@ namespace SistemaPermisosUsuarios
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
+            var ue = ml.Permisos("escritura", FrmLogin.user, "Usuarios");
+            if (ue == true)
+                Abrir();
+            else
+                MessageBox.Show("No tiene permisos de escritura");
+
+        }
+        public void Abrir()
+        {
             Hide();
             usuarios.Id = -1;
             FrmAddUsuarios fau = new FrmAddUsuarios();
             fau.ShowDialog();
             Show();
-        }
-
-        private void btnActualizar_Click(object sender, EventArgs e)
-        {
-            Actualizar();
         }
 
         private void dgvUsuarios_CellEnter(object sender, DataGridViewCellEventArgs e)
@@ -79,6 +97,16 @@ namespace SistemaPermisosUsuarios
                 Console.WriteLine(ex.Message);
             }
         }
+
+        private void btnActualizar_Click(object sender, EventArgs e)
+        {
+            var ul = ml.Permisos("lectura", FrmLogin.user, "Usuarios");
+            if (ul == true)
+                Actualizar();
+            else
+                MessageBox.Show("No tiene permisos de lectura");
+        }
+
         public void Actualizar()
         {
             mu.Mostrar(dgvUsuarios);

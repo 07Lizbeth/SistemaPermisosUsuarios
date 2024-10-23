@@ -33,9 +33,5 @@ namespace AccesoDatos
             return b.Obtener(string.Format("select * from usuarios;"), "usuarios");
 
         }
-        public bool Validar(string nombre, string password)
-        {
-            return b.Dato(string.Format("call validarusuario('{0}','{1}');", nombre,password));
-        }
     }
 }
